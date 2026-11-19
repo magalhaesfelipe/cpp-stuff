@@ -9,6 +9,6 @@ int main ()
 
   sum = columns * rows;
 
-  std::cout << "The total amount of day blocks are: ";
-  std::cout << sum;
+  std::cout << "The total amount of day blocks are: " << sum;
+  // std::cout << sum;
 }
